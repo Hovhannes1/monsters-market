@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/monsters-market/static/css/main.7508bef9.chunk.css",
+    "main.js": "/monsters-market/static/js/main.6ae81298.chunk.js",
+    "main.js.map": "/monsters-market/static/js/main.6ae81298.chunk.js.map",
+    "runtime-main.js": "/monsters-market/static/js/runtime-main.89702bed.js",
+    "runtime-main.js.map": "/monsters-market/static/js/runtime-main.89702bed.js.map",
+    "static/js/2.c0b52254.chunk.js": "/monsters-market/static/js/2.c0b52254.chunk.js",
+    "static/js/2.c0b52254.chunk.js.map": "/monsters-market/static/js/2.c0b52254.chunk.js.map",
+    "index.html": "/monsters-market/index.html",
+    "precache-manifest.890c42a6402d1663e1b202f2ec734494.js": "/monsters-market/precache-manifest.890c42a6402d1663e1b202f2ec734494.js",
+    "service-worker.js": "/monsters-market/service-worker.js",
+    "static/css/main.7508bef9.chunk.css.map": "/monsters-market/static/css/main.7508bef9.chunk.css.map",
+    "static/js/2.c0b52254.chunk.js.LICENSE.txt": "/monsters-market/static/js/2.c0b52254.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.89702bed.js",
+    "static/js/2.c0b52254.chunk.js",
+    "static/css/main.7508bef9.chunk.css",
+    "static/js/main.6ae81298.chunk.js"
+  ]
+}
